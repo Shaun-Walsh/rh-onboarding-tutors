@@ -1,0 +1,90 @@
+### General ###
+# Logs and temporary files
+*.log
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+### Operating System Files ###
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+### Development Environment ###
+# IDEs and editors (e.g., VSCode, JetBrains)
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+### Dependency Directories ###
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json  # Optional: some teams commit this
+yarn.lock         # Optional: some teams commit this
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.eggs/
+dist/
+build/
+*.egg-info/
+.ipynb_checkpoints
+
+### Sensitive Information ###
+# Credentials and configuration files
+.env
+.env.local
+.env.*.local
+config.local.js
+secrets.yml
+*.pem
+*.key

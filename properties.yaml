@@ -2,7 +2,7 @@ credits: A reference course for Red Hat onboarding
 title: Red Hat Onboarding Course
 moodle: https://moodle.org/
 youtube: https://www.youtube.com/redhat
-github: https://github.com/redhatofficial
+github: https://github.com/Shaun-Walsh/rh-onboarding-tutors
 parent: course/rh-onboarding-course
 
 auth: 0
